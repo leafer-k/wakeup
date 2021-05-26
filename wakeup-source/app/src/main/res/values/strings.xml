@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wake up!</string>
+    <string name="addEvent">Создать</string>
+</resources>
